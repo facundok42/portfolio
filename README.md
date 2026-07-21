@@ -13,6 +13,7 @@ As part of a larger analysis, to identify which countries were contributing the 
 Since OnlyFans doesn't provide official stats, we built our model analyzing global traffic and searches related to actual users (as opposed to simply search for "only fans" in different countries). We then converted our numbers into an index which we used versus reported and estimated earnings to build the list below. 
 
 <img width="893" height="837" alt="image" src="https://github.com/user-attachments/assets/60e3936c-6ff4-4143-b30f-86c20244bf25" />
+<img width="1314" height="358" alt="image" src="https://github.com/user-attachments/assets/af35570d-d7d1-4e8c-a8ce-f0de2519b1be" />
 
 
 ## Data Quality 
@@ -31,7 +32,7 @@ The end result was a region wide analysis that offered insights on how many peop
 ## Goat Milk?
 This is one of those projects that came out of a silly question, and eventually became a full visualization. There has always been a bias regarding non-bovine milk consumption, usually tying it to economic and developmental hardships. However, when looking at the global consumption of goat milk, another thing becomes evident: The largest consumer by a wide margin (India) is driven by a cultural motivation rather than their macroeconomical present. 
 
-<img width="2830" height="4031" alt="image" src="https://github.com/user-attachments/assets/edaa85d9-9aa3-46d8-8c32-e3edcf54d128" />
+<img width="707" height="1007" alt="image" src="https://github.com/user-attachments/assets/edaa85d9-9aa3-46d8-8c32-e3edcf54d128" />
 
 
 
