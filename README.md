@@ -24,7 +24,7 @@ When working across multiple client datasets with no standardized validation pro
 
 
 ## TV Channels in LATAM
-The initial brief for this project was to create a database that could showcase the paid tv channels by genre in Latam. At the time there was no data product available with this information. And most of it wasn't directly available and required a lot of data transformation from our side.  
+The initial brief for this project was to create a database that could showcase the paid TV channels by genre in LATAM. At the time there was no data product available with this information. And most of it wasn't directly available and required a lot of data transformation from our side.  
 While all of the operators had their grids available, scraping that data and understanding how many of their subscribers had access to each channel was the hard part.  
 The end result was a region wide analysis that offered insights on how many people had access to each of the genres, prodiving operators with new market insights that were key to the discussion of creating or rebranding channels.  
 
