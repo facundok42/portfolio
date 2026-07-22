@@ -40,4 +40,5 @@ This is one of those projects that came out of a silly question, and eventually 
 
 
 ## Godzilla: Through the eras
-Aside from reports and statements, data can eventually become a physical product. Using information from Godzilla movies and iconic scenes i was able to create a visual representation of the size of Godzilla in each of its movie eras, and compare that with a local landmark (Monumento a la Bandera in Rosario, Argentina). The final product was a fanzine that was not only visually interesting, but that appealed to the people by putting the data in terms familiar to them
+Aside from reports and statements, data can eventually become a physical product. Using information from Godzilla movies and iconic scenes i was able to create a visual representation of the size of Godzilla in each of its movie eras, and compare that with a local landmark (Monumento a la Bandera in Rosario, Argentina). The final product was a fanzine that was not only visually interesting, but that appealed to the people by putting the data in terms familiar to them.
+<img width="1280" height="906" alt="telegram-cloud-photo-size-1-5118879772023918371-y" src="https://github.com/user-attachments/assets/53f55142-ae15-4a52-9ad7-c9f8343e6614" />
