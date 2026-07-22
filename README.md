@@ -28,6 +28,9 @@ The initial brief for this project was to create a database that could showcase 
 While all of the operators had their grids available, scraping that data and understanding how many of their subscribers had access to each channel was the hard part.  
 The end result was a region wide analysis that offered insights on how many people had access to each of the genres, prodiving operators with new market insights that were key to the discussion of creating or rebranding channels.  
 
+<img width="633" height="458" alt="image" src="https://github.com/user-attachments/assets/12120d52-c20a-41b5-88fe-f3b0b6f9720c" />
+
+
 
 ## Goat Milk?
 This is one of those projects that came out of a silly question, and eventually became a full visualization. There has always been a bias regarding non-bovine milk consumption, usually tying it to economic and developmental hardships. However, when looking at the global consumption of goat milk, another thing becomes evident: The largest consumer by a wide margin (India) is driven by a cultural motivation rather than their macroeconomical present. 
